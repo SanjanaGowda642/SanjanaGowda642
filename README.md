@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**SanjanaGowda642/SanjanaGowda642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sanjana, a Computer Science student who enjoys turning ideas into practical projects and figuring out how things work under the hood.
 
-Here are some ideas to get you started:
+🌱 Currently learning **Full-Stack Development, AI/ML, DSA & Computer Networks**
+🤖 Exploring **Generative AI, Machine Learning and intelligent systems**
+💻 Practicing **C++, Python, SQL & problem solving**
+🔬 Interested in **AI research, computer vision and real-world applications of ML**
+🚀 Building projects, participating in hackathons, and constantly experimenting with new technologies
+📚 Currently preparing for **software engineering internships and placements**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe the best way to learn is to **build, break, debug, and build again.**
+
+### 🛠️ Tech I'm working with
+
+**Languages:** C++, Python, SQL, JavaScript
+**Web:** HTML, CSS, React, Node.js
+**AI/ML:** NumPy, Pandas, Matplotlib, Machine Learning, Generative AI
+**Core:** DSA, DBMS, Computer Networks, OOP
+**Tools:** Git, GitHub, VS Code
+
+### 🎯 Currently
+
+Learning something new, building something useful, and trying to make my GitHub commits slightly less chaotic. 😄
+
